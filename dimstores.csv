@@ -1,0 +1,51 @@
+StoreID,StoreName,CityName,StateProvinceName,RegionCountryName,StoreManager,StoreType
+1,"Contoso Seattle No.1 Store",Seattle,Washington,"United States","Roy Antebi",Store
+2,"Contoso Seattle No.2 Store",Seattle,Washington,"United States","Roy Antebi",Store
+3,"Contoso Kennewick Store",Kennewick,Washington,"United States","Prithvi Raj",Store
+4,"Contoso Bellevue Store",Bellevue,Washington,"United States","Luca Argentiero",Store
+5,"Contoso Redmond Store",Redmond,Washington,"United States","Suriya Sajjateerakool",Store
+6,"Contoso Yakima Store",Yakima,Washington,"United States","Zainal Arifin",Store
+7,"Contoso Granger Store",Granger,Washington,"United States","Amy Strande",Store
+8,"Contoso Sunnyside Store",Sunnyside,Washington,"United States","Ties Arts",Store
+9,"Contoso Toppenish Store",Toppenish,Washington,"United States","Daniel Taylor",Store
+10,"Contoso Wapato Store",Wapato,Washington,"United States","Ronen Ashkenazi",Store
+11,"Contoso Cle Elum Store","Cle Elum",Washington,"United States","Hans-Walter Untch",Store
+12,"Contoso North Bend Store","North Bend",Washington,"United States","Chris Ashton",Store
+13,"Contoso Snoqualmie Store",Snoqualmie,Washington,"United States","Michael Vanderhyde",Store
+14,"Contoso Fall City Store","Fall City",Washington,"United States","Vivian Atlas",Store
+15,"Contoso Renton Store",Renton,Washington,"United States","Robin Wakefield",Store
+16,"Contoso Everett Store",Everett,Washington,"United States","Anahita Bahrami",Store
+17,"Contoso Spokane Store",Spokane,Washington,"United States","Chase Carpenter",Store
+18,"Contoso Veradale Store",Veradale,Washington,"United States","Pieter Wycoff",Store
+19,"Contoso Cheney Store",Cheney,Washington,"United States","Dev Balasubramanian",Store
+20,"Contoso Englewood Store",Englewood,Colorado,"United States","Steven Wright",Store
+21,"Contoso Wheat Ridge Store","Wheat Ridge",Colorado,"United States","Oliver Szimmetat",Store
+22,"Contoso Westminster Store",Westminster,"British Columbia",Canada,"Eiji Yasuda",Store
+23,"Contoso Grand Junction Store","Grand Junction",Colorado,"United States","Ed Banti",Store
+24,"Contoso New Castle Store","New Castle",Colorado,"United States","Mrina Natarajan",Store
+25,"Contoso Greeley  No.1 Store",Greeley,Colorado,"United States","Dave Barnett",Store
+26,"Contoso Loveland Store",Loveland,Colorado,"United States","Manuel Oliveira",Store
+27,"Contoso Lafayette Store",Lafayette,Colorado,"United States","Adam Barr",Store
+28,"Contoso Castle Rock Store","Castle Rock",Colorado,"United States","Rok Palcic",Store
+29,"Contoso Sedalia Store",Sedalia,Colorado,"United States","Shai Bassli",Store
+30,"Contoso Fort Collins Store","Fort Collins",Colorado,"United States","Yossi Ran",Store
+31,"Contoso Greeley No.2 Store",Greeley,Colorado,"United States","Dave Barnett",Store
+32,"Contoso Milliken Store",Milliken,Colorado,"United States","Shaun Beasley",Store
+33,"Contoso Berthoud Store",Berthoud,Colorado,"United States","Karolina Salas-Szlejter",Store
+34,"Contoso Denver No.1 Store",Denver,Colorado,"United States","Anna Bedecs",Store
+35,"Contoso Denver No.2 Store",Denver,Colorado,"United States","Anna Bedecs",Store
+36,"Contoso Denver No.3 Store",Denver,Colorado,"United States","Anna Bedecs",Store
+37,"Contoso Boulder Store",Boulder,Colorado,"United States","Oliver Szimmetat",Store
+38,"Contoso Thornton Store",Thornton,Colorado,"United States","Ann Beebe",Store
+39,"Contoso Littleton Store",Littleton,Colorado,"United States","Jeff Teper",Store
+40,"Contoso Aurora Store",Aurora,Colorado,"United States","Allie Bellew",Store
+41,"Contoso Parker Store",Parker,Colorado,"United States","Siri Velauthapillai",Store
+42,"Contoso Green Bay Store","Green Bay",Wisconsin,"United States","Nuno Bento",Store
+43,"Contoso Appleton Store",Appleton,Wisconsin,"United States","Anne Wallace",Store
+44,"Contoso Menasha Store",Menasha,Wisconsin,"United States","Matt Berg",Store
+45,"Contoso Oshkosh Store",Oshkosh,Wisconsin,"United States","John Yokim",Store
+46,"Contoso Fond du Lac Store","Fond du Lac",Wisconsin,"United States","Arvind Rao",Store
+47,"Contoso Milwaukee No.1 Store",Milwaukee,Wisconsin,"United States","Antonio Bermejo",Store
+48,"Contoso Milwaukee No.2 Store",Milwaukee,Wisconsin,"United States","Antonio Bermejo",Store
+49,"Contoso Milwaukee No.3 Store",Milwaukee,Wisconsin,"United States","Antonio Bermejo",Store
+50,"Contoso Waukesha No.1 Store",Waukesha,Wisconsin,"United States","Robert Zare",Store

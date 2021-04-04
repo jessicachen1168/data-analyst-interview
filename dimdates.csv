@@ -1,0 +1,51 @@
+DateID,FullDateLabel,CalendarYear,CalendarQuarter,CalendarMonth,CalendarMonthName,CalendarDayOfWeek,WeekDayName,EuropeSeason,NorthAmericaSeason,AsiaSeason
+"2009-01-01 00:00:00",2009-01-01,2009,20091,200901,January,2009015,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-02 00:00:00",2009-01-02,2009,20091,200901,January,2009016,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-03 00:00:00",2009-01-03,2009,20091,200901,January,2009017,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-04 00:00:00",2009-01-04,2009,20091,200901,January,2009021,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-05 00:00:00",2009-01-05,2009,20091,200901,January,2009022,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-06 00:00:00",2009-01-06,2009,20091,200901,January,2009023,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-07 00:00:00",2009-01-07,2009,20091,200901,January,2009024,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-08 00:00:00",2009-01-08,2009,20091,200901,January,2009025,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-09 00:00:00",2009-01-09,2009,20091,200901,January,2009026,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-10 00:00:00",2009-01-10,2009,20091,200901,January,2009027,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-11 00:00:00",2009-01-11,2009,20091,200901,January,2009031,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-12 00:00:00",2009-01-12,2009,20091,200901,January,2009032,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-13 00:00:00",2009-01-13,2009,20091,200901,January,2009033,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-14 00:00:00",2009-01-14,2009,20091,200901,January,2009034,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-15 00:00:00",2009-01-15,2009,20091,200901,January,2009035,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-16 00:00:00",2009-01-16,2009,20091,200901,January,2009036,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-17 00:00:00",2009-01-17,2009,20091,200901,January,2009037,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-18 00:00:00",2009-01-18,2009,20091,200901,January,2009041,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-19 00:00:00",2009-01-19,2009,20091,200901,January,2009042,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-20 00:00:00",2009-01-20,2009,20091,200901,January,2009043,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-21 00:00:00",2009-01-21,2009,20091,200901,January,2009044,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-22 00:00:00",2009-01-22,2009,20091,200901,January,2009045,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-23 00:00:00",2009-01-23,2009,20091,200901,January,2009046,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-24 00:00:00",2009-01-24,2009,20091,200901,January,2009047,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-25 00:00:00",2009-01-25,2009,20091,200901,January,2009051,Sunday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-26 00:00:00",2009-01-26,2009,20091,200901,January,2009052,Monday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-27 00:00:00",2009-01-27,2009,20091,200901,January,2009053,Tuesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-28 00:00:00",2009-01-28,2009,20091,200901,January,2009054,Wednesday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-29 00:00:00",2009-01-29,2009,20091,200901,January,2009055,Thursday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-30 00:00:00",2009-01-30,2009,20091,200901,January,2009056,Friday,Holiday,"Spring/Back to Business",Holiday
+"2009-01-31 00:00:00",2009-01-31,2009,20091,200901,January,2009057,Saturday,Holiday,"Spring/Back to Business",Holiday
+"2009-02-01 00:00:00",2009-02-01,2009,20091,200902,February,2009061,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-02 00:00:00",2009-02-02,2009,20091,200902,February,2009062,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-03 00:00:00",2009-02-03,2009,20091,200902,February,2009063,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-04 00:00:00",2009-02-04,2009,20091,200902,February,2009064,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-05 00:00:00",2009-02-05,2009,20091,200902,February,2009065,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-06 00:00:00",2009-02-06,2009,20091,200902,February,2009066,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-07 00:00:00",2009-02-07,2009,20091,200902,February,2009067,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-08 00:00:00",2009-02-08,2009,20091,200902,February,2009071,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-09 00:00:00",2009-02-09,2009,20091,200902,February,2009072,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-10 00:00:00",2009-02-10,2009,20091,200902,February,2009073,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-11 00:00:00",2009-02-11,2009,20091,200902,February,2009074,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-12 00:00:00",2009-02-12,2009,20091,200902,February,2009075,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-13 00:00:00",2009-02-13,2009,20091,200902,February,2009076,Friday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-14 00:00:00",2009-02-14,2009,20091,200902,February,2009077,Saturday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-15 00:00:00",2009-02-15,2009,20091,200902,February,2009081,Sunday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-16 00:00:00",2009-02-16,2009,20091,200902,February,2009082,Monday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-17 00:00:00",2009-02-17,2009,20091,200902,February,2009083,Tuesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-18 00:00:00",2009-02-18,2009,20091,200902,February,2009084,Wednesday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
+"2009-02-19 00:00:00",2009-02-19,2009,20091,200902,February,2009085,Thursday,Spring/Business,"Spring/Back to Business","Spring/Back to School"
